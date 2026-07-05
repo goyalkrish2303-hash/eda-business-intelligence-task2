@@ -25,6 +25,3 @@ To uncover patterns, trends, and business insights using SQL and Excel.
 - Monthly Revenue Trends
 - Gender-wise Sales Comparison
 - Category-wise Performance Analysis
-
-## LinkedIn Post
-[Add your own LinkedIn post link here]
