@@ -1,4 +1,4 @@
-# eda-business-intelligence-task2
+# Exploratory Data Analysis (EDA) & Business Intelligence Task2
 
 ## Objective
 To uncover patterns, trends, and business insights using SQL and Excel.
